@@ -8,8 +8,12 @@ docker-compose up
 
 docker-compose down
 
-all settings and flows in NodeRED will be saved in nodered_volume that is configured in docker-compose.yml file
-command to check docker volumes:
+#all settings and flows in NodeRED will be saved in nodered_volume that is configured in docker-compose.yml file
+
+#command to check docker volumes:
+
 docker volume ls
-location of nodered_volume in linux:
+
+#location of nodered_volume in linux:
+
 cd /var/lib/docker/volume/
