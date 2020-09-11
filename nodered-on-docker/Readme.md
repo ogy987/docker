@@ -1,6 +1,8 @@
 # NodeRED on docker compose
+
 #start container with command:
 docker-compose up
+
 #shut down container with command:
 docker-compose down
 
