@@ -1,7 +1,7 @@
 # NodeRED on docker compose
-start container with command:
+#start container with command:
 docker-compose up
-shut down container with command:
+#shut down container with command:
 docker-compose down
 
 all settings and flows in NodeRED will be saved in nodered_volume that is configured in docker-compose.yml file
